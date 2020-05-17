@@ -1,4 +1,7 @@
-﻿//Title
+﻿// welcome
+
+//Title
+
 const helloTitle = document.createElement('header');
 helloTitle.innerText = 'Epidemiology Report';
 document.body.appendChild(helloTitle);
